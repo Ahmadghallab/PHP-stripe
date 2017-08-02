@@ -1,1 +1,1 @@
-"# PHP Stripe API" 
+# PHP Stripe API
